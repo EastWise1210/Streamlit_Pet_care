@@ -10,7 +10,6 @@ from con6_CS import run_cs
 from con7_ETC import run_etc
 
 
-
 def main():
 
     #사이드바 메뉴
@@ -53,8 +52,6 @@ def main():
 
     else :
         pass
-
-
 
 
 
